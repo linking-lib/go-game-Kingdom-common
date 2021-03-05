@@ -6,6 +6,6 @@
  */
 package constants
 
-const RocketmqGroupDemo = "demo"
+const RocketmqTopicDemo = "demo"
 
 const RocketmqTagDemo = "demo"
